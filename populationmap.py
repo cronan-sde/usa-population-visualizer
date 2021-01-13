@@ -3,8 +3,6 @@
 import requests as req
 import plotly.graph_objects as pgo
 import pandas as pd
-import os
-import subprocess as sp
 
 POPULATION_API = "https://datausa.io/api/data?drilldowns=State&measures=Population&year=latest"
 CUR_YEAR=""
