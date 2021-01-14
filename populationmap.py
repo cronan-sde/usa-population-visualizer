@@ -98,7 +98,6 @@ def generateMap(df):
     ##writing the map to html file for viewing
     ##uncomment below 2 lines and add file path of your choice
     #fileUrl = "/path/to/file/<yourfilename>"
-    #fileUrl = "/home/student/static/county_map.html"
     #stateMap.write_html(fileUrl)
 
     ##To open the map up uncomment the line below
