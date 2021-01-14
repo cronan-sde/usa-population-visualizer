@@ -69,7 +69,7 @@ def generateMap(df):
 
     # Setting up the map
     # locations utilizes state abbr
-    # z=specifies the first line on hover will display population number as int
+    # z=specifies the data to color-code
     # locationmode specifies it will be US states map
     # colorscale sets the coloring
     #text= will set the hover text
