@@ -99,6 +99,7 @@ def generateMap(df):
     ##uncomment below 2 lines and add file path of your choice
     #fileUrl = "/path/to/file/<yourfilename>"
     #stateMap.write_html(fileUrl)
+    
 
     ##To open the map up uncomment the line below
     stateMap.show()
