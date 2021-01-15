@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
 
+"""
+    Author: Cody Cronberger
+
+    Creates an interactive map of the USA representing population data by state
+"""
+
 import requests as req
 import plotly.graph_objects as pgo
 import pandas as pd
